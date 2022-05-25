@@ -1,0 +1,15 @@
+description: Desenvolva e publique APIs para conectar softwares da empresa no seu produto com nossa Stack cloud native .NET.
+name: carbon-dotnet-api-stack
+display-name: carbon-dotnet-api-stack
+picture: stack.png
+category: backend # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
+compatibility: # Put a list of technologies compatible with the stack
+  - java
+  - spring
+technologies: # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#technologies 
+  - docker 
+about: docs/about.md
+use-cases:
+  - title: Use Case Title
+    content: docs/use-case.md
+    stackfile: stackfiles/default.yaml

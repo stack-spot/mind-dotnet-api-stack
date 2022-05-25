@@ -1,0 +1,14 @@
+type: app
+description: Default stackfile usecase description
+# template used to create the project
+template: carbon-dotnet-api-stack/<template-name>
+inputs:
+  some_input: value
+# list of plugins to be applied after project creation
+plugins:
+  - plugin: carbon-dotnet-api-stack/<plugin-name>
+    inputs:
+      some_input: value
+      some_list:
+        - item1
+        - item2
