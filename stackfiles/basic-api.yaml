@@ -1,0 +1,6 @@
+type: app
+description: Template para desenvolver uma API completa usando C#, podendo executar em um cluster de contêiner.
+# template used to create the project
+template: carbon-dotnet-api-stack/dotnet-api-template
+plugins:
+  - plugin: carbon-dotnet-api-stack/dotnet-errorhandler-app-plugin

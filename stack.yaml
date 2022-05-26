@@ -1,0 +1,27 @@
+description: Desenvolva e publique APIs para conectar softwares da empresa no seu produto com nossa Stack cloud native .NET.
+name: carbon-dotnet-api-stack
+display-name: Stack API
+picture: stack.png
+category: Backend
+compatibility:
+  - net5.0
+  - net6.0
+technologies: 
+  - .NET
+  - C#
+  - Api
+  - OpenAPI
+  - gRPC
+  - Splunk
+  - Prometheus
+  - Jaeger
+  - AWS SQS
+  - AWS SNS
+  - AWS DynamoDB
+  - Docker
+  - AWS ECS/Fargate 
+about: docs/about.md
+use-cases:
+  - title: Basic API
+    content: docs/use-case.md
+    stackfile: stackfiles/basic-api.yaml
