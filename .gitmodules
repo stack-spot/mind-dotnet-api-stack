@@ -1,0 +1,3 @@
+[submodule "dotnet-api-template"]
+	path = dotnet-api-template
+	url = https://github.com/stack-spot/dotnet-api-template.git
