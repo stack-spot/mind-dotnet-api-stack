@@ -3,7 +3,7 @@ name: carbon-dotnet-api-stack
 display-name: Stack API
 picture: stack.png
 category: Backend
-compatibility: # Put a list of technologies compatible with the stack
+compatibility:
   - net5.0
   - net6.0
 technologies: 
@@ -11,10 +11,12 @@ technologies:
   - C#
   - Api
   - OpenAPI
+  - gRPC
   - Splunk
   - Prometheus
   - Jaeger
   - AWS SQS
+  - AWS SNS
   - AWS DynamoDB
   - Docker
   - AWS ECS/Fargate 
