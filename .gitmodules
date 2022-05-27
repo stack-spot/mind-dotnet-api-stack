@@ -13,3 +13,6 @@
 [submodule "dotnet-trace-app-plugin"]
 	path = dotnet-trace-app-plugin
 	url = https://github.com/stack-spot/dotnet-trace-app-plugin.git
+[submodule "dotnet-grpc-app-plugin"]
+	path = dotnet-grpc-app-plugin
+	url = https://github.com/stack-spot/dotnet-grpc-app-plugin.git
