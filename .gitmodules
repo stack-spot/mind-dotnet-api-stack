@@ -7,3 +7,6 @@
 [submodule "dotnet-metrics-app-plugin"]
 	path = dotnet-metrics-app-plugin
 	url = https://github.com/stack-spot/dotnet-metrics-app-plugin.git
+[submodule "dotnet-secrets-app-plugin"]
+	path = dotnet-secrets-app-plugin
+	url = https://github.com/stack-spot/dotnet-secrets-app-plugin.git
