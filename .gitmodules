@@ -28,3 +28,6 @@
 [submodule "dotnet-errorhandler-app-plugin"]
 	path = dotnet-errorhandler-app-plugin
 	url = https://github.com/stack-spot/dotnet-errorhandler-app-plugin.git
+[submodule "dotnet-notification-app-plugin"]
+	path = dotnet-notification-app-plugin
+	url = https://github.com/stack-spot/dotnet-notification-app-plugin.git
