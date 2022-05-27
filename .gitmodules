@@ -4,3 +4,6 @@
 [submodule "dotnet-bucket-app-plugin"]
 	path = dotnet-bucket-app-plugin
 	url = https://github.com/stack-spot/dotnet-bucket-app-plugin.git
+[submodule "dotnet-metrics-app-plugin"]
+	path = dotnet-metrics-app-plugin
+	url = https://github.com/stack-spot/dotnet-metrics-app-plugin.git
