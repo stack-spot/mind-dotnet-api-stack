@@ -25,3 +25,6 @@
 [submodule "dotnet-queue-app-plugin"]
 	path = dotnet-queue-app-plugin
 	url = https://github.com/stack-spot/dotnet-queue-app-plugin.git
+[submodule "dotnet-errorhandler-app-plugin"]
+	path = dotnet-errorhandler-app-plugin
+	url = https://github.com/stack-spot/dotnet-errorhandler-app-plugin.git
