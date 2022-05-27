@@ -1,3 +1,6 @@
 [submodule "dotnet-api-template"]
 	path = dotnet-api-template
 	url = https://github.com/stack-spot/dotnet-api-template.git
+[submodule "dotnet-bucket-app-plugin"]
+	path = dotnet-bucket-app-plugin
+	url = https://github.com/stack-spot/dotnet-bucket-app-plugin.git
