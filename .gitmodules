@@ -19,3 +19,6 @@
 [submodule "dotnet-repository-app-plugin"]
 	path = dotnet-repository-app-plugin
 	url = https://github.com/stack-spot/dotnet-repository-app-plugin.git
+[submodule "dotnet-authentication-app-plugin"]
+	path = dotnet-authentication-app-plugin
+	url = https://github.com/stack-spot/dotnet-authentication-app-plugin.git
