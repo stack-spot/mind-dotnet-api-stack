@@ -43,3 +43,6 @@
 [submodule "dotnet-secrets-plugin"]
 	path = dotnet-secrets-plugin
 	url = https://github.com/stack-spot/dotnet-secrets-plugin.git
+[submodule "dotnet-trace-plugin"]
+	path = dotnet-trace-plugin
+	url = https://github.com/stack-spot/dotnet-trace-plugin.git
