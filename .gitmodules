@@ -46,3 +46,6 @@
 [submodule "dotnet-trace-plugin"]
 	path = dotnet-trace-plugin
 	url = https://github.com/stack-spot/dotnet-trace-plugin.git
+[submodule "dotnet-metrics-plugin"]
+	path = dotnet-metrics-plugin
+	url = https://github.com/stack-spot/dotnet-metrics-plugin.git
