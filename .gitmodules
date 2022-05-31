@@ -55,3 +55,6 @@
 [submodule "dotnet-repository-plugin"]
 	path = dotnet-repository-plugin
 	url = https://github.com/stack-spot/dotnet-repository-plugin.git
+[submodule "dotnet-grpc-plugin"]
+	path = dotnet-grpc-plugin
+	url = https://github.com/stack-spot/dotnet-grpc-plugin.git
