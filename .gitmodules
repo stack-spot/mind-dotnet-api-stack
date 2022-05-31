@@ -58,3 +58,6 @@
 [submodule "dotnet-grpc-plugin"]
 	path = dotnet-grpc-plugin
 	url = https://github.com/stack-spot/dotnet-grpc-plugin.git
+[submodule "dotnet-notification-plugin"]
+	path = dotnet-notification-plugin
+	url = https://github.com/stack-spot/dotnet-notification-plugin.git
