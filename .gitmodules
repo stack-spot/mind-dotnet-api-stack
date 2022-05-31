@@ -37,3 +37,6 @@
 [submodule "dotnet-bucket-plugin"]
 	path = dotnet-bucket-plugin
 	url = https://github.com/stack-spot/dotnet-bucket-plugin.git
+[submodule "dotnet-errorhandler-plugin"]
+	path = dotnet-errorhandler-plugin
+	url = https://github.com/stack-spot/dotnet-errorhandler-plugin.git
