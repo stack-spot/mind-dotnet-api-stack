@@ -61,3 +61,6 @@
 [submodule "dotnet-notification-plugin"]
 	path = dotnet-notification-plugin
 	url = https://github.com/stack-spot/dotnet-notification-plugin.git
+[submodule "dotnet-queue-plugin"]
+	path = dotnet-queue-plugin
+	url = https://github.com/stack-spot/dotnet-queue-plugin.git
