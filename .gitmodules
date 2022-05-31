@@ -52,3 +52,6 @@
 [submodule "dotnet-logging-plugin"]
 	path = dotnet-logging-plugin
 	url = https://github.com/stack-spot/dotnet-logging-plugin.git
+[submodule "dotnet-repository-plugin"]
+	path = dotnet-repository-plugin
+	url = https://github.com/stack-spot/dotnet-repository-plugin.git
