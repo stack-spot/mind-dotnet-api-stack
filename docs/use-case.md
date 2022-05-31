@@ -2,13 +2,13 @@ No processo de conectar softwares de uma empresa através de uma API, a Stack of
 
 Ao iniciar o seu produto através desse template base oferecido, é possível compilar e executar o projeto localmente. É importante lembrar que a Stack não é intrusiva. Os códigos são criados para ajudar times de desenvolvimento, mas cada desenvolvedor opta pelo que prefere usar. 
 
-Para começar sua jornada de desenvolvimento utilizando os recursos disponibilizados pelo Estúdio Carbon, aplique o template base para iniciar o desenvolvimento de uma API completa usando **C#**, **.NET** e **REST**, rodando em um cluster de contêiner.  
+Para começar sua jornada de desenvolvimento utilizando os recursos disponibilizados pelo Estúdio Mind, aplique o template base para iniciar o desenvolvimento de uma API completa usando **C#**, **.NET** e **REST**, rodando em um cluster de contêiner.  
 
 ### Visão Geral
 O template **dotnet-api-template** adiciona em uma stack a capacidade de provisionar serviços REST.
 
 ### Pré-requisitos
-Para utilizar esse template você precisa utilizar o `CLI` do `StackSpot` que você pode baixar [**aqui**](https://stackspot.com.br/).
+Para utilizar esse template você precisa utilizar o `CLI` do `StackSpot` que você pode baixar [**aqui**](https://stackspot.com/).
 - .NET 5 e/ou 6 instalados.
 
 ### Inputs
