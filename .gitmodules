@@ -64,3 +64,6 @@
 [submodule "dotnet-queue-plugin"]
 	path = dotnet-queue-plugin
 	url = https://github.com/stack-spot/dotnet-queue-plugin.git
+[submodule "dotnet-authentication-plugin"]
+	path = dotnet-authentication-plugin
+	url = https://github.com/stack-spot/dotnet-authentication-plugin.git
