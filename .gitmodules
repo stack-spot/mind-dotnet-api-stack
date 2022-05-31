@@ -49,3 +49,6 @@
 [submodule "dotnet-metrics-plugin"]
 	path = dotnet-metrics-plugin
 	url = https://github.com/stack-spot/dotnet-metrics-plugin.git
+[submodule "dotnet-logging-plugin"]
+	path = dotnet-logging-plugin
+	url = https://github.com/stack-spot/dotnet-logging-plugin.git
