@@ -40,3 +40,6 @@
 [submodule "dotnet-errorhandler-plugin"]
 	path = dotnet-errorhandler-plugin
 	url = https://github.com/stack-spot/dotnet-errorhandler-plugin.git
+[submodule "dotnet-secrets-plugin"]
+	path = dotnet-secrets-plugin
+	url = https://github.com/stack-spot/dotnet-secrets-plugin.git
