@@ -1,39 +1,6 @@
 [submodule "dotnet-api-template"]
 	path = dotnet-api-template
 	url = https://github.com/stack-spot/dotnet-api-template.git
-[submodule "dotnet-bucket-app-plugin"]
-	path = dotnet-bucket-app-plugin
-	url = https://github.com/stack-spot/dotnet-bucket-app-plugin.git
-[submodule "dotnet-metrics-app-plugin"]
-	path = dotnet-metrics-app-plugin
-	url = https://github.com/stack-spot/dotnet-metrics-app-plugin.git
-[submodule "dotnet-secrets-app-plugin"]
-	path = dotnet-secrets-app-plugin
-	url = https://github.com/stack-spot/dotnet-secrets-app-plugin.git
-[submodule "dotnet-trace-app-plugin"]
-	path = dotnet-trace-app-plugin
-	url = https://github.com/stack-spot/dotnet-trace-app-plugin.git
-[submodule "dotnet-grpc-app-plugin"]
-	path = dotnet-grpc-app-plugin
-	url = https://github.com/stack-spot/dotnet-grpc-app-plugin.git
-[submodule "dotnet-repository-app-plugin"]
-	path = dotnet-repository-app-plugin
-	url = https://github.com/stack-spot/dotnet-repository-app-plugin.git
-[submodule "dotnet-authentication-app-plugin"]
-	path = dotnet-authentication-app-plugin
-	url = https://github.com/stack-spot/dotnet-authentication-app-plugin.git
-[submodule "dotnet-queue-app-plugin"]
-	path = dotnet-queue-app-plugin
-	url = https://github.com/stack-spot/dotnet-queue-app-plugin.git
-[submodule "dotnet-errorhandler-app-plugin"]
-	path = dotnet-errorhandler-app-plugin
-	url = https://github.com/stack-spot/dotnet-errorhandler-app-plugin.git
-[submodule "dotnet-notification-app-plugin"]
-	path = dotnet-notification-app-plugin
-	url = https://github.com/stack-spot/dotnet-notification-app-plugin.git
-[submodule "dotnet-logging-app-plugin"]
-	path = dotnet-logging-app-plugin
-	url = https://github.com/stack-spot/dotnet-logging-app-plugin.git
 [submodule "dotnet-bucket-plugin"]
 	path = dotnet-bucket-plugin
 	url = https://github.com/stack-spot/dotnet-bucket-plugin.git
